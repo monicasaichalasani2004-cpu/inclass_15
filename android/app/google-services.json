@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "201304763321",
+    "project_id": "inventory-app-monica",
+    "storage_bucket": "inventory-app-monica.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201304763321:android:9c0fc461b0024c2343e468",
+        "android_client_info": {
+          "package_name": "com.example.inclass15"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhKfd_J-eDkw3H00DCmd9MWt-GCGyxu0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201304763321:android:f71bac22328aff4f43e468",
+        "android_client_info": {
+          "package_name": "com.example.inclass_15"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhKfd_J-eDkw3H00DCmd9MWt-GCGyxu0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
