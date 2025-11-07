@@ -1,16 +1,33 @@
-# inclass_15
+# 📦 Smart Inventory Manager — In-Class 15
 
-A new Flutter project.
+A Flutter + Firebase app that manages inventory items in real time using **Cloud Firestore**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Enhanced Features Implemented
 
-A few resources to get you started if this is your first Flutter project:
+1️⃣ **Realtime Firebase Sync**
+   - Whenever an item is added or deleted, it automatically updates in Firebase and the app without refresh.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2️⃣ **Total Inventory Value Calculation**
+   - The app calculates and displays the total inventory value dynamically based on item quantity × price.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🧠 App Overview
+
+This app allows users to:
+- Add, edit, and delete inventory items.
+- Automatically sync data with Firebase Firestore.
+- See the total inventory value update instantly.
+- Use a clean Material 3 interface.
+
+---
+
+## ⚙️ How to Run the App
+
+### 🔹 Step 1 — Clone the repository
+
+```bash
+git clone https://github.com/monicasaichalasani2004-cpu/inclass_15.git
+cd inclass_15
